@@ -1,6 +1,6 @@
 # DeepBRCA
 
-DeepBRCA is a sequence to function deep learning model of breast cancer gene regulation based on the [DeepTopic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706731/) architecture developed at the [VIB-KU Leuven Laboratory of Computational Biology](https://www.aertslab.org/).
+DeepBRCA is a sequence-to-function deep learning model of breast cancer gene regulation based on the [DeepTopic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706731/) architecture developed at the [VIB-KU Leuven Laboratory of Computational Biology](https://www.aertslab.org/).
 
 **Code coming soon**
 
